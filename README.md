@@ -1,4 +1,4 @@
-<p align="center"><img src="github-header-image.png" width=700 height=300/></p>
+<p align="center"><img src="github-header-image.jpg" width=700 height=300/></p>
 
 
 # 💫 About Me:
