@@ -1,4 +1,4 @@
-<p align="center"><img src="https://ibb.co/F5p7XSv"/></p>
+<p align="center"><img src="https://ibb.co/F5p7XSv" width=700 height=300/></p>
 
 
 # 💫 About Me:
