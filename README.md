@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+[![MasterHead](./github-header-image.png)]()
 
 # 💫 About Me:
 🔭 I'm currently working on Full-Stack Web Development<br><br>🌱 I’m currently deep diving into Data Structures and Algorithms<br><br>👯 I’m looking to collaborate on web development open source projects<br><br>📫 How to reach me baggakaran19@gmail.com<br><br>⚡ Fun fact When I'm not battling syntax errors, I enjoy watching my favourite shows, listening to music or sometimes banging my head into Leetcode questions
